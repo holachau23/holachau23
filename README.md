@@ -2,7 +2,7 @@
 Soy estudiante de economía 📈 en la UBA y espero ser <b>Data Analyst</b> algún día. <br>
 Para eso, estoy aprendiendo 📚 R, Python y SQL. <br>
 Además, hace unos años aprendí HTML y CSS. <br>
-Mis hobbies son: leer, tocar la guitarra, dibujar (digital y tradicional) y mirar cada partido de tenis que pasen por la tele.<br>
+Mis hobbies son: leer, tocar la guitarra, dibujar y mirar cada partido de tenis que pasen por la tele.<br>
 Cómo contactarme:
 <ul>
   <li> 📫 Mail: augusto.rosenbaum@gmail.com
